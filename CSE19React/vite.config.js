@@ -10,3 +10,4 @@ export default defineConfig({
   ],
   base: '/React_project/', // <-- Add this exact line here
 })
+  import react, { reactCompilerPreset } from '@vitejs/plugin-react'
